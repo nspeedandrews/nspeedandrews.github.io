@@ -1,0 +1,25 @@
+.centered {
+  text-align: center;
+}
+
+.blue {
+	color: blue;
+}
+
+.grey {
+	color: grey;
+}
+.brd {
+	border-radius: 4px;
+	border: 2px solid grey;
+	padding: 10px;
+	height: 50px;
+}
+
+.brd2 {
+	border-radius: 4px;
+	border: 4pt solid blue;
+	padding: 10px;
+	height: 50px;
+
+}
